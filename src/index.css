@@ -9,4 +9,8 @@ body{
   background-color: rgb(234,237,237);
 }
 
+a{
+  text-decoration: none;
+  color:white;
+}
 
